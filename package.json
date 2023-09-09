@@ -1,0 +1,14 @@
+{
+  "name": "projeto-final-on25",
+  "version": "1.0.0",
+  "description": "Projeto teste reprograma",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "author": "Celina Oliveira",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^29.6.4"
+  }
+}
